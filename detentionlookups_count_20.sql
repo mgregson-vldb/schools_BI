@@ -1,0 +1,23 @@
+/*********************************************************************/
+/* author: vldb                                                      */
+/* date: 31/08/2021                                                  */
+/* version: 1.0                                                      */
+/* description: count no. of rows inserted into target table         */
+/*********************************************************************/
+
+select count(*)
+from   mis.detentionattendedlookup
+;
+
+select count(*)
+from   mis.detentiontypelookup
+;
+
+select count(*)
+from    mis.detentionlocationlookup
+;
+
+select count(*)
+from    mis.detentionreasonlookup
+;
+

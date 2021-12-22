@@ -1,0 +1,17 @@
+achievementfordaterange
+calendar
+conductlookups
+conductpoints
+contacts
+detentionlookups
+entitlementhistory
+groups
+personcomms
+photos
+schoolinfo
+sen
+staff
+studentcontacts
+studentenrolmenthistory
+students
+studentschoolhistory
