@@ -1,0 +1,5 @@
+(
+    ('options', 'includePhotos,includeGroupIds,includeGroupIdaasIds,includeGroupXIDs,includeParentIdaasIds,includeParentXIDs,includeAttStats,includeAttMarkString,includeSiblingsList,includeSiblingsResultset,includeLeavers,includePreAdmissions,includeGuests,includeSubsidiary,includeComms'),
+    ('page', '1'),
+    ('pageSize', '10001'),
+)

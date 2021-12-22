@@ -1,0 +1,5 @@
+(
+    ('options', 'includeStaffMembers,includeStudentMembers,includeMembersIds,includeMembersIdaasIds,includeMembersXIDs,includeSubjects,includeGroupTypes,includeSubGroups'),
+    ('page', '1'),
+    ('pageSize', '10001'),
+)
