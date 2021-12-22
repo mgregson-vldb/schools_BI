@@ -164,3 +164,7 @@ host    replication     all             127.0.0.1/32            trust
 host    replication     all             ::1/128                 trust
 ```
 Now save pg_hba.conf and restart your machine. A restart is essential to restart the database with the new settings
+
+## Note
+
+Date ranges for endpoints are currently hardcoded within each params file and will need to be changed if needed with date format YYYY-MM-DD
