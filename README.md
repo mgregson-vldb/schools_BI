@@ -24,7 +24,7 @@ studentschoolhistory
 
 
 
-1 - How it works - Explanation of scripts
+1 - How it works - Explination of scripts
 ____________________________________________________________________________________
 
 -'xporter_json_download.py' calls the Xporter API and generates one JSON file per 'endpoint’, with additional elements defined within the endpoints parameter file contained within the params directory. 
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 - Xporter license and API credentials
 
-These details need to be entered into xporter_json_download.py at lines 25 to 27 in order for downloads to work. 
+	These details need to be entered into xporter_json_download.py at lines 25 to 27 in order for downloads to work. 
 
 - Python3 (latest version)
 
