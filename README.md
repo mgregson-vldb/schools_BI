@@ -1,5 +1,5 @@
 # schools_BI
-Initial version of schoos_bi export code for Xporter Groupcall MIS data
+Initial version of schools_bi export code for Xporter Groupcall MIS data
 
 
 This project aims to assist in bulk exporting MIS data from Groupcall Xporter and loading it into a local PostgreSQL database for further use. Currently in this alpha version only certain endpoints are supported for testing purposes. These are currently:
