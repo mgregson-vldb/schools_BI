@@ -1,4 +1,4 @@
-# schools_BI
+# Schools_BI
 Initial version of schools_bi export code for Xporter Groupcall MIS data
 
 
@@ -132,7 +132,6 @@ When running the master_ddl.py and master_load.py scripts, as psql is called in 
 The pg_hba.conf file can be found at C:\Program Files\PostgreSQL\14\data if you installed postgres to the default windows location. Within that file at the bottom at lines 82 onwards it will look like the below:
 
 ```
-
 # TYPE  DATABASE        USER            ADDRESS                 METHOD
 
 # "local" is for Unix domain socket connections only
