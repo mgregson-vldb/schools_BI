@@ -1,5 +1,0 @@
-(
-    ('options', 'includePhotos,includeGroupIds,includeGroupIdaasIds,includeGroupXIDs,includeFuture,includePrevious,includeTemporary,includeHierarchy'),
-    ('page', '1'),
-    ('pageSize', '10001'),
-)
