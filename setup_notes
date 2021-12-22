@@ -1,0 +1,8 @@
+In postgres database:
+create database schools;
+create schema mis;
+create schema mis_load;
+
+Command line (windows):
+-pip3 install psycopg2
+-pip3 install requests
